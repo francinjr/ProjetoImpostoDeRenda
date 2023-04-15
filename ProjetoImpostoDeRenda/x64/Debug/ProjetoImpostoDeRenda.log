@@ -1,0 +1,3 @@
+﻿  ProjetoImpostoDeRenda.cpp
+C:\Users\franc\source\repos\ProjetoImpostoDeRenda\ProjetoImpostoDeRenda\ProjetoImpostoDeRenda.cpp(65,27): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+  ProjetoImpostoDeRenda.vcxproj -> C:\Users\franc\source\repos\ProjetoImpostoDeRenda\x64\Debug\ProjetoImpostoDeRenda.exe
